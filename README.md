@@ -1,3 +1,10 @@
+![1](https://github.com/denizzunlu/Stock-Application/assets/123365405/7ad81169-4e41-4d70-bf38-f5cb85ee0f25)
+![2](https://github.com/denizzunlu/Stock-Application/assets/123365405/6db42c2d-2b45-45e3-960c-0fdb4df75acd)
+![3](https://github.com/denizzunlu/Stock-Application/assets/123365405/9930f2d6-b0bc-4866-968c-59993258a7a6)
+
+
+
+
 ## EN
 # Stock Application
 
