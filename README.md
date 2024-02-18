@@ -4,6 +4,28 @@
 
 
 
+## TR
+# Hisse Senedi Uygulaması
+
+Bu basit web uygulaması, kullanıcıların belirli bir hisse senedi sembolü için fiyat ve hacim trendlerini incelemelerine olanak tanır. Ayrıca, kullanıcılar hisse senedi fiyatlarını CSV veya Excel formatında indirebilirler.
+
+## Nasıl Kullanılır
+
+1. **Hisse Senedi Semboülü Girin:** Sol kenar çubuğundaki metin kutusuna bir hisse senedi sembolü yazın. Örneğin: "AAPL" (Apple Inc.).
+
+2. **Tarih Aralığını Seçin:** Sol kenar çubuğundaki tarih seçicilerini kullanarak analiz etmek istediğiniz tarih aralığını belirleyin.
+
+3. **Grafikleri ve Verileri İnceleyin:** Uygulama, girilen sembol ve tarih aralığı için hisse senedi fiyatı ve hacim grafiği oluşturacak ve temel istatistikler sağlayacaktır.
+
+4. **Verileri İndirin:** İstediğiniz formatta hisse senedi fiyatlarını indirmek için "İndirme Formatı" radyo düğmesinden birini seçin ve indirme bağlantısına tıklayın.
+
+## Kullanılan Teknolojiler
+
+- Python
+- Streamlit: Web uygulaması geliştirmek için kullanıldı.
+- yfinance: Yahoo Finance API'ye erişmek için kullanıldı.
+- Pandas: Veri işleme ve analizi için kullanıldı.
+- base64: Veri indirme işlemi için kullanıldı.
 
 ## EN
 # Stock Application
@@ -27,26 +49,3 @@ This simple web application allows users to analyze the price and volume trends 
 - yfinance: Used to access the Yahoo Finance API.
 - Pandas: Used for data processing and analysis.
 - base64: Used for data download operation.
-
-## TR
-# Hisse Senedi Uygulaması
-
-Bu basit web uygulaması, kullanıcıların belirli bir hisse senedi sembolü için fiyat ve hacim trendlerini incelemelerine olanak tanır. Ayrıca, kullanıcılar hisse senedi fiyatlarını CSV veya Excel formatında indirebilirler.
-
-## Nasıl Kullanılır
-
-1. **Hisse Senedi Semboülü Girin:** Sol kenar çubuğundaki metin kutusuna bir hisse senedi sembolü yazın. Örneğin: "AAPL" (Apple Inc.).
-
-2. **Tarih Aralığını Seçin:** Sol kenar çubuğundaki tarih seçicilerini kullanarak analiz etmek istediğiniz tarih aralığını belirleyin.
-
-3. **Grafikleri ve Verileri İnceleyin:** Uygulama, girilen sembol ve tarih aralığı için hisse senedi fiyatı ve hacim grafiği oluşturacak ve temel istatistikler sağlayacaktır.
-
-4. **Verileri İndirin:** İstediğiniz formatta hisse senedi fiyatlarını indirmek için "İndirme Formatı" radyo düğmesinden birini seçin ve indirme bağlantısına tıklayın.
-
-## Kullanılan Teknolojiler
-
-- Python
-- Streamlit: Web uygulaması geliştirmek için kullanıldı.
-- yfinance: Yahoo Finance API'ye erişmek için kullanıldı.
-- Pandas: Veri işleme ve analizi için kullanıldı.
-- base64: Veri indirme işlemi için kullanıldı.
