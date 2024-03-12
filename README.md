@@ -9,6 +9,8 @@
 
 Bu basit web uygulaması, kullanıcıların belirli bir hisse senedi sembolü için fiyat ve hacim trendlerini incelemelerine olanak tanır. Ayrıca, kullanıcılar hisse senedi fiyatlarını CSV veya Excel formatında indirebilirler.
 
+Link: https://stock-application-with-app-azinatth7jeojhhtdwa8es.streamlit.app/
+
 ## Nasıl Kullanılır
 
 1. **Hisse Senedi Semboülü Girin:** Sol kenar çubuğundaki metin kutusuna bir hisse senedi sembolü yazın. Örneğin: "AAPL" (Apple Inc.).
